@@ -3,8 +3,8 @@
 Welcome to the first technical lab hosted by The Blockchain Collaborative at Baylor University! This course will be taught by Nathan Galindo, and if you have any questions, you can reach him via telegram @nathanzebedee. This first lesson will focus on setting up your local environment for building decentralized blockchain applications (dApps), and will briefly introduce you to the Solidity programming language towards the end as we program a very simple smart contract. 
 
 You will notice that there are two primary folders.
-    - "finished" is where you will find the finished project. Please use this folder as a reference for how your code should behave.
-    - "starter" is where you will be building the project yourself.
+* "finished" is where you will find the finished project. Please use this folder as a reference for how your code should behave.
+* "starter" is where you will be building the project yourself.
 
 To access the video recording of this lesson, please refer to the link: [01-hello-world-video-walkthrough]()
 
