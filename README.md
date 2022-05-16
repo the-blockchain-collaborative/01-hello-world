@@ -11,20 +11,29 @@ To access the video recording of this lesson, please refer to the link: [01-hell
 Note: all technical labs were designed using a macOS environment. If you are not using a macOS environment, some of these processes might be different for you. Please be aware of this moving forward.
 
 ## Setup
-You will need a few dependencies to get started. Please refer to the list below, and follow along with the video as you install the required tools.
+You will need a few dependencies to get properly configure your local development environment. Please refer to the list below, and follow along with the video as you install the required tools.
 
-* **Node**: Run teh following commands in your terminal
+* **Node**: Run the following commands in your terminal
     * ```curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash``` -- this downloads nvm
     * ```nvm version``` -- you should see a number displayed
     * ```nvm install 16``` -- this downloads an appropriate version of node
     * ```nvm use 16``` -- this sets the version of node to use
-* **Git**: 
-* **Metamask**:
-    * <a target='_blank' rel='noreferrer' href='https://metamask.io/'>Install Metamask</a>
+* **Git**: Run the following commands in your terminal
+    * ```brew install git``` -- this installs git
+    * ```git --version``` -- you should see a number displayed
+* **Metamask**: Refer to the link provided
+    * [Install Metamask](https://metamask.io/){:target="\_blank"}
     * Create an account
-* **Soldity**: 
-* **VSCode**: 
-* **Plugins**:
+* **Soldity**: Run the following commands in your terminal
+    * ```npm install -g solc``` -- this installs the Solidity compiler
+    * ```solc --version``` -- you should see a number displayed
+* **VSCode**: Refer to the link provided
+    * [Install VSCode](https://code.visualstudio.com/download){:target="\_blank"}
+* **Plugins**: Refer to the "extensions" tab in VSCode and install the following plugins
+    * ms-vscode.vscode-typescript-next
+    * NomicFoundation.hardhat-solidity
+    * JuanBlanco.solidity
+    * dsznajder.es7-react-js-snippets
 
 ## Disclaimer
 This post is for general information purposes only. It does not constitute investment advice or a recommendation or solicitation to buy or sell any investment and should not be used in the evaluation of the merits of making any investment decision. It should not be relied upon for accounting, legal or tax advice or investment recommendations. This post reflects the current opinions of the authors and is not made on behalf of The Blockchain Collaborative or its affiliates and does not necessarily reflect the opinions of The Blockchain Collaborative, its affiliates or individuals associated with The Blockchain Collaborative. The opinions reflected herein are subject to change without being updated.
