@@ -22,13 +22,13 @@ You will need a few dependencies to get properly configure your local developmen
     * ```brew install git``` -- this installs git
     * ```git``` -- you should see a list of commands
 * **Metamask**: Refer to the link provided
-    * [Install Metamask](https://metamask.io/){:target="\_blank"}
+    * [Install Metamask](https://metamask.io/)
     * Create an account
 * **Soldity**: Run the following commands in your terminal
     * ```npm install -g solc``` -- this installs the Solidity compiler
     * ```solc --version``` -- you should see a number displayed
 * **VSCode**: Refer to the link provided
-    * [Install VSCode](https://code.visualstudio.com/download){:target="\_blank"}
+    * [Install VSCode](https://code.visualstudio.com/download)
 * **Plugins**: Refer to the "extensions" tab in VSCode and install the following plugins
     * ms-vscode.vscode-typescript-next
     * NomicFoundation.hardhat-solidity
@@ -39,9 +39,9 @@ You will need a few dependencies to get properly configure your local developmen
 This project will require a few dependencies to be installed. Please refer to the list below, and follow along with the video as you install the required dependencies.
 
 * **Hardhat**: ```npm install -D hardhat``` -- EVM development environment
-* **ethers.js**: ```npm install --D @nomiclabs/hardhat-ethers ethers``` -- JavaScript library for interacting with EVM smart contracts
-* **waffle**: ```npm install --D @nomiclabs/hardhat-waffle ethereum-waffle``` -- JavaScript library for testing EVM smart contracts
-* **chai**: ```npm install --D chai```-- JavaScript library for testing JavaScript applications
+* **ethers.js**: ```npm install -D @nomiclabs/hardhat-ethers ethers``` -- JavaScript library for interacting with EVM smart contracts
+* **waffle**: ```npm install -D @nomiclabs/hardhat-waffle ethereum-waffle``` -- JavaScript library for testing EVM smart contracts
+* **chai**: ```npm install -D chai```-- JavaScript library for testing JavaScript applications
 
 ## Disclaimer ⚠️
 This post is for general information purposes only. It does not constitute investment advice or a recommendation or solicitation to buy or sell any investment and should not be used in the evaluation of the merits of making any investment decision. It should not be relied upon for accounting, legal or tax advice or investment recommendations. This post reflects the current opinions of the authors and is not made on behalf of The Blockchain Collaborative or its affiliates and does not necessarily reflect the opinions of The Blockchain Collaborative, its affiliates or individuals associated with The Blockchain Collaborative. The opinions reflected herein are subject to change without being updated.
