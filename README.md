@@ -20,7 +20,7 @@ You will need a few dependencies to get started. Please refer to the list below,
     * ```nvm use 16``` -- this sets the version of node to use
 * **Git**: 
 * **Metamask**:
-    * <a target='_blank' href='https://metamask.io/'>Install Metamask</a>
+    * <a target='_blank' rel='noreferrer' href='https://metamask.io/'>Install Metamask</a>
     * Create an account
 * **Soldity**: 
 * **VSCode**: 
