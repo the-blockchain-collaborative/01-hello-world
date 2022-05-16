@@ -6,7 +6,7 @@ You will notice that there are two primary folders.
 * "finished" is where you will find the finished project. Please use this folder as a reference for how your code should behave.
 * "starter" is where you will be building the project yourself.
 
-**To access the video recording of this lesson, please refer to the link: [01-hello-world-video-walkthrough]() ✨**
+**To access the video recording of this lesson, please refer to the link: [01-hello-world-video-walkthrough]()** 💫
 
 Note: all technical labs were designed using a macOS environment. If you are not using a macOS environment, some of these processes might be different for you. Please be aware of this moving forward.
 
