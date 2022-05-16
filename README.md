@@ -6,7 +6,7 @@ You will notice that there are two primary folders.
     - "finished" is where you will find the finished project. Please use this folder as a reference for how your code should behave.
     - "starter" is where you will be building the project yourself.
 
-To access the video recording of this lesson, please refer to the link: [01-hello-world-video]()
+To access the video recording of this lesson, please refer to the link: [01-hello-world-video-walkthrough]()
 
 Note: all technical labs were designed using a macOS environment. If you are not using a macOS environment, some of these processes might be different for you. Please be aware of this moving forward.
 
@@ -34,6 +34,14 @@ You will need a few dependencies to get properly configure your local developmen
     * NomicFoundation.hardhat-solidity
     * JuanBlanco.solidity
     * dsznajder.es7-react-js-snippets
+
+## Dependencies
+This project will require a few dependencies to be installed. Please refer to the list below, and follow along with the video as you install the required dependencies.
+
+* **Hardhat**: ```npm install -D hardhat``` -- EVM development environment
+* **ethers.js**: ```npm install --D @nomiclabs/hardhat-ethers ethers``` -- JavaScript library for interacting with EVM smart contracts
+* **waffle**: ```npm install --D @nomiclabs/hardhat-waffle ethereum-waffle``` -- JavaScript library for testing EVM smart contracts
+* **chai**: ```npm install --D chai```-- JavaScript library for testing JavaScript applications
 
 ## Disclaimer
 This post is for general information purposes only. It does not constitute investment advice or a recommendation or solicitation to buy or sell any investment and should not be used in the evaluation of the merits of making any investment decision. It should not be relied upon for accounting, legal or tax advice or investment recommendations. This post reflects the current opinions of the authors and is not made on behalf of The Blockchain Collaborative or its affiliates and does not necessarily reflect the opinions of The Blockchain Collaborative, its affiliates or individuals associated with The Blockchain Collaborative. The opinions reflected herein are subject to change without being updated.
