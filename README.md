@@ -41,13 +41,13 @@ This project will require a few dependencies to be installed. Please refer to th
 * **Hardhat**: 
     * EVM development environment
     * ```npm install -D hardhat```
-* **ethers.js**: 
+* **Ethers.js**: 
     * JavaScript library for interacting with EVM smart contracts
     * ```npm install -D @nomiclabs/hardhat-ethers ethers```
-* **waffle**: 
+* **Waffle**: 
     * JavaScript library for testing EVM smart contracts
     * ```npm install -D @nomiclabs/hardhat-waffle ethereum-waffle```
-* **chai**: 
+* **Chai**: 
     * JavaScript library for testing JavaScript applications
     * ```npm install -D chai```
 
